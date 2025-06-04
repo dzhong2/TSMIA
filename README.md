@@ -1,4 +1,4 @@
-This is an anonymous repo for paper: "Membership Inference on Well-generalized Time Series Classification Models"
+This is an anonymous repo for paper: "Membership Inference Attacks on Well-Generalized Time Series Classifiers"
 
 ### How to use 
 
